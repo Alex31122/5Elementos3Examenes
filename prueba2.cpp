@@ -14,6 +14,8 @@ int main(){
     int Almenos1 = 0, Solo_Ultimo = 0, Todos = 0;
 
     for(int i=1; i<=5; i++){
+
+        cout << "HOLA MUNDO";
         
         cout << "\n====================Calificaciones del Alumno: " << i << " ====================\n";
         cout << "\n" << "Calificacion del examen 1: "; cin >> E1;
